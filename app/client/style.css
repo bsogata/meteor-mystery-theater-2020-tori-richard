@@ -1,0 +1,12 @@
+.tori-blue {
+  color: #00b6cc !important;
+}
+
+.tori-gray {
+  color: #7d7d7c !important;
+}
+
+.ui.menu.borderless {
+  box-shadow: none;
+  border: none;
+}
